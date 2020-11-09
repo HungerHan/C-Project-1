@@ -1,1 +1,2 @@
-# C-Project-1
+# Cpp-Project-1
+Accrue interest for an investment account
